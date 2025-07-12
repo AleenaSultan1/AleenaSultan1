@@ -24,7 +24,7 @@ Curious? See the full project here: (https://github.com/lucyking140/ai-studio-un
 Developed an AI-driven bot platform leveraging Large Language Models (LLMs) to help policymakers, and stakeholders efficiently query and extract insights from UNECE PDF documentation. The platform facilitates quick access to critical information, aiding informed decision-making and aligning with SDG 13: Climate Action.
 
 #### ◾ Tools: 
-Python, Lamma 3.2, NumPy, PyMuPDF, Jupyter Notebooks 
+Java, Python, Lamma 3.2, NumPy, PyMuPDF, Jupyter Notebooks 
 
 ## 🛠️ Tech Stack 
 #### :computer:Programming Languages
