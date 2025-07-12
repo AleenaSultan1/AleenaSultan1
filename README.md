@@ -28,9 +28,9 @@ Python, Lamma 3.2, NumPy, PyMuPDF, Jupyter Notebooks
 
 ## 🛠️ Tech Stack 
 #### :computer:Programming Languages
-Python: Advanced, used for ML models, statistical analysis, and backend development.
+Python: Advanced, for ML models, statistical analysis, and backend development.
 
-Java: Intermediate, likely for object-oriented programming and system design.
+Java: Intermediate, for object-oriented programming and system design.
 
 C/C++: Intermediate, for systems programming and algorithms.
 
@@ -60,7 +60,7 @@ Email: aleena.sultan@bucknell.edu
 LinkedIn: [https://www.linkedin.com/in/aleenasultan/](url)
  
 ## ✨ Fun Fact:
-Can't find me? I'm probably cooped up in the corner of the library with a hot drink, playing endless rounds of tetris, or chatting away with someone about the implications of AI going wrong. 
+Can't find me? I'm probably cooped up in the corner of the library with a hot drink, playing endless rounds of tetris. 
 
 
 
