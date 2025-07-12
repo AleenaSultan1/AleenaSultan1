@@ -52,8 +52,6 @@ Matplotlib, Seaborn, Plotly: For creating data visualizations.
 
 ## 🚀 Projects: Coming soon! 
 
-## GitHub Stats: Coming soon!
-
 ## 📫 How to Reach Me:
 Email: aleena.sultan@bucknell.edu
 
