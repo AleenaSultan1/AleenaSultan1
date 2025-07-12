@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 I love seeing computer science in action - specifically data analysis and software design. I'm big on ethical AI and fairness in algorithmic design, and believe that perseverance commands success. (I'd love to chat about my technical skills and leadership as a Break Through Tech Fellow [https://www.breakthroughtech.org/](https://www.breakthroughtech.org/)) Currently, I'm focusing on building machine learning models and diving deeper into data science. I’m looking to leverage and grow my skills in an internship where I can contribute to exciting projects and learn from industry professionals- got any suggestions? Let me know!
 
 ## :dart: Featured Project: Open AI Chatbot for UNECE
-Curious? See the full project here: [https://github.com/lucyking140/ai-studio-unicc](url) 
+Curious? See the full project here: [[https://github.com/lucyking140/ai-studio-unicc](url)](https://github.com/lucyking140/ai-studio-unicc) 
 #### ▪ What we did: 
 Developed an AI-driven bot platform leveraging Large Language Models (LLMs) to help policymakers, and stakeholders efficiently query and extract insights from UNECE PDF documentation. The platform facilitates quick access to critical information, aiding informed decision-making and aligning with SDG 13: Climate Action.
 
