@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-#### :mortar_board:Undergraduate Junior at Bucknell University
+#### :mortar_board:Undergraduate Senior at Bucknell University
 #### :stars:Aspiring Software Engineer, Machine Learning Engineer and Space Enthusiast 
 I love seeing computer science in action - specifically data analysis and software design. I'm big on ethical AI and fairness in algorithmic design, and believe that perseverance commands success. (I'd love to chat about my technical skills and leadership as a Break Through Tech Fellow [https://www.breakthroughtech.org/](https://www.breakthroughtech.org/)) Currently, I'm focusing on building machine learning models and diving deeper into data science. I’m looking to leverage and grow my skills in an internship where I can contribute to exciting projects and learn from industry professionals- got any suggestions? Let me know!
 
